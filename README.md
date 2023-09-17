@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const me = {
   code: [Javascript, Typescript, HTML, CSS, SCSS],
   tools: [Angular, Vue.js, NestJS, Docker, Jest],
   architecture: ["microservices", "event-driven", "client-server"],
