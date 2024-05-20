@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47drsk64bn0qc22i47uvl22dydgds4s7v6a4vq24bj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" border-radius="50%">
 
-<p><em>Software Enginner at <a href="https://www.avidi.tech/about">Aviditi Tech</a> </em></p>
+<p><em>Software Enginner at <a href="https://www.avidi.tech/about">Avidi Tech</a> </em></p>
 
 
 [![Linkedin: volodymyr-huk](https://img.shields.io/badge/-Volodymyr_Huk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/volodymyr-huk/)](https://www.linkedin.com/in/volodymyr-huk/)
