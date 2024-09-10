@@ -12,7 +12,7 @@
 ```javascript
 const me = {
   code: [Javascript, Typescript, HTML, CSS, SCSS],
-  tools: [Angular, Vue.js, NestJS, Docker, Jest],
+  tools: [Angular, Vue, React NestJS, Docker, Jest/Karma],
   architecture: ["microservices", "event-driven", "client-server"],
   challenge: "Make world a little bit better :)"
 }
